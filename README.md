@@ -6,7 +6,8 @@ Centre of Biotechnology and Microbiology (COBAM), University of Peshawar, Pakist
 LaTeX source of the preprint-ready manuscript, with figures, supplementary Table S1,
 genome accession lists, and the full analysis scripts.
 
-**DOI:** [to be inserted — Zenodo, on release]
+**DOI (v1.0.0):** [10.5281/zenodo.24589690](https://doi.org/10.5281/zenodo.24589690) — Zenodo record: https://zenodo.org/records/24589690
+**Concept DOI (all versions):** [10.5281/zenodo.24589689](https://doi.org/10.5281/zenodo.24589689)
 
 ## Contents
 
