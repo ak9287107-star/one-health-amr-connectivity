@@ -1,0 +1,150 @@
+asm_acc	target_acc	biosample_acc	taxgroup_name	country	iso3	income_group	one_health_sector	collection_year	stratum	within_stratum_rank
+GCA_058693925.1	PDT003271995.1	SAMN47596159	E.coli and Shigella	Algeria	DZA	LMIC	Livestock_Poultry	2022	Algeria|E.coli and Shigella|Livestock_Poultry	2
+GCA_031787095.1	PDT001892448.1	SAMN37196943	E.coli and Shigella	Argentina	ARG	LMIC	Human	2016	Argentina|E.coli and Shigella|Human	2
+GCA_031788295.1	PDT001892449.1	SAMN37196942	E.coli and Shigella	Argentina	ARG	LMIC	Human	2017	Argentina|E.coli and Shigella|Human	3
+GCA_009664515.1	PDT000629719.1	SAMN13191651	E.coli and Shigella	Australia	AUS	HIC	Human	2017	Australia|E.coli and Shigella|Human	2
+GCA_051619495.1	PDT002860209.1	SAMN49815506	E.coli and Shigella	Australia	AUS	HIC	Human	2019	Australia|E.coli and Shigella|Human	3
+GCA_028752675.1	PDT001638937.1	SAMN23170097	E.coli and Shigella	Australia	AUS	HIC	Livestock_Poultry	2016	Australia|E.coli and Shigella|Livestock_Poultry	2
+GCA_023612215.1	PDT001321070.1	SAMN13968567	Klebsiella pneumoniae	Australia	AUS	HIC	Human	2016	Australia|Klebsiella pneumoniae|Human	2
+GCA_051617105.1	PDT002863037.1	SAMN49815534	Klebsiella pneumoniae	Australia	AUS	HIC	Human	2020	Australia|Klebsiella pneumoniae|Human	3
+GCA_046578795.1	PDT002561695.1	SAMN44383877	Klebsiella pneumoniae	Australia	AUS	HIC	Wastewater_Aquatic	2023	Australia|Klebsiella pneumoniae|Wastewater_Aquatic	2
+GCA_046580995.1	PDT002561699.1	SAMN44383885	Klebsiella pneumoniae	Australia	AUS	HIC	Wastewater_Aquatic	2023	Australia|Klebsiella pneumoniae|Wastewater_Aquatic	3
+GCA_004114395.1	PDT000455749.1	SAMN10535911	E.coli and Shigella	Bangladesh	BGD	LMIC	Human	2018	Bangladesh|E.coli and Shigella|Human	2
+GCA_008375335.1	PDT000586490.1	SAMN12263012	E.coli and Shigella	Bangladesh	BGD	LMIC	Human	2016	Bangladesh|E.coli and Shigella|Human	3
+GCA_047219265.1	PDT002595403.1	SAMN46178541	E.coli and Shigella	Bangladesh	BGD	LMIC	Livestock_Poultry	2018	Bangladesh|E.coli and Shigella|Livestock_Poultry	2
+GCA_053348515.2	PDT002974876.2	SAMN52957120	E.coli and Shigella	Bangladesh	BGD	LMIC	Livestock_Poultry	2022	Bangladesh|E.coli and Shigella|Livestock_Poultry	3
+GCA_045517155.1	PDT002505561.1	SAMN44323899	E.coli and Shigella	Belgium	BEL	HIC	Human	2024	Belgium|E.coli and Shigella|Human	2
+GCA_014131575.1	PDT000808673.1	SAMN13423058	E.coli and Shigella	Belgium	BEL	HIC	Human	2016	Belgium|E.coli and Shigella|Human	3
+GCA_030013365.1	PDT001736225.1	SAMN32549645	E.coli and Shigella	Belgium	BEL	HIC	Livestock_Poultry	2021	Belgium|E.coli and Shigella|Livestock_Poultry	2
+GCA_030012705.1	PDT001736202.1	SAMN32549589	E.coli and Shigella	Belgium	BEL	HIC	Livestock_Poultry	2020	Belgium|E.coli and Shigella|Livestock_Poultry	3
+GCA_029889725.1	PDT001709412.1	SAMN34178607	Klebsiella pneumoniae	Brazil	BRA	LMIC	Human	2016	Brazil|Klebsiella pneumoniae|Human	2
+GCA_014524525.1	PDT000835027.1	SAMN14770898	Klebsiella pneumoniae	Brazil	BRA	LMIC	Human	2015	Brazil|Klebsiella pneumoniae|Human	3
+GCA_049570265.1	PDT002716987.1	SAMN47823685	Klebsiella pneumoniae	Brazil	BRA	LMIC	Wastewater_Aquatic	2024	Brazil|Klebsiella pneumoniae|Wastewater_Aquatic	2
+GCA_049606485.1	PDT002719900.1	SAMN47823843	Klebsiella pneumoniae	Brazil	BRA	LMIC	Wastewater_Aquatic	2024	Brazil|Klebsiella pneumoniae|Wastewater_Aquatic	3
+GCA_051175635.1	PDT002823309.1	SAMN49441676	E.coli and Shigella	Canada	CAN	HIC	Human	2025	Canada|E.coli and Shigella|Human	2
+GCA_056493765.2	PDT003163546.2	SAMN46342617	E.coli and Shigella	Canada	CAN	HIC	Human	2020	Canada|E.coli and Shigella|Human	3
+GCA_015571735.1	PDT000892910.1	SAMN16304199	E.coli and Shigella	Canada	CAN	HIC	Livestock_Poultry	2017	Canada|E.coli and Shigella|Livestock_Poultry	2
+GCA_015571815.1	PDT000893589.1	SAMN16304205	E.coli and Shigella	Canada	CAN	HIC	Livestock_Poultry	2017	Canada|E.coli and Shigella|Livestock_Poultry	3
+GCA_002142715.1	PDT000209467.1	SAMN06925129	E.coli and Shigella	China	CHN	LMIC	Human	2015	China|E.coli and Shigella|Human	2
+GCA_016598635.1	PDT000930973.1	SAMN17151035	E.coli and Shigella	China	CHN	LMIC	Human	2019	China|E.coli and Shigella|Human	3
+GCA_048021095.1	PDT002643435.1	SAMN46760301	E.coli and Shigella	China	CHN	LMIC	Livestock_Poultry	2023	China|E.coli and Shigella|Livestock_Poultry	2
+GCA_029318935.1	PDT001665154.1	SAMN33693440	E.coli and Shigella	China	CHN	LMIC	Livestock_Poultry	2020	China|E.coli and Shigella|Livestock_Poultry	3
+GCA_041320125.1	PDT002326221.1	SAMN29495208	E.coli and Shigella	China	CHN	LMIC	Wastewater_Aquatic	2019	China|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_024532365.1	PDT001378484.1	SAMN29328108	E.coli and Shigella	China	CHN	LMIC	Wastewater_Aquatic	2020	China|E.coli and Shigella|Wastewater_Aquatic	3
+GCA_052971295.1	PDT002947906.1	SAMN43054759	Klebsiella pneumoniae	China	CHN	LMIC	Human	2019	China|Klebsiella pneumoniae|Human	2
+GCA_005854025.1	PDT000510486.1	SAMN09487518	Klebsiella pneumoniae	China	CHN	LMIC	Human	2016	China|Klebsiella pneumoniae|Human	3
+GCA_030271915.1	PDT001780084.1	SAMN31425346	Klebsiella pneumoniae	China	CHN	LMIC	Livestock_Poultry	2022	China|Klebsiella pneumoniae|Livestock_Poultry	2
+GCA_054786565.1	PDT003071433.1	SAMN54581505	Klebsiella pneumoniae	China	CHN	LMIC	Livestock_Poultry	2024	China|Klebsiella pneumoniae|Livestock_Poultry	3
+GCA_050218865.1	PDT002762121.1	SAMN48179137	Klebsiella pneumoniae	China	CHN	LMIC	Wastewater_Aquatic	2023	China|Klebsiella pneumoniae|Wastewater_Aquatic	2
+GCA_061217905.1	PDT003385882.1	SAMN61260873	Klebsiella pneumoniae	China	CHN	LMIC	Wastewater_Aquatic	2023	China|Klebsiella pneumoniae|Wastewater_Aquatic	3
+GCA_057812615.1	PDT003235669.1	SAMN53300921	Klebsiella pneumoniae	Czech Republic	CZE	HIC	Human	2023	Czech Republic|Klebsiella pneumoniae|Human	2
+GCA_057812755.1	PDT003235673.1	SAMN53300914	Klebsiella pneumoniae	Czech Republic	CZE	HIC	Human	2022	Czech Republic|Klebsiella pneumoniae|Human	3
+GCA_047782865.1	PDT002627392.1	SAMN46721676	E.coli and Shigella	Denmark	DNK	HIC	Human	2021	Denmark|E.coli and Shigella|Human	2
+GCA_002803905.1	PDT000270173.1	SAMN07983336	E.coli and Shigella	Denmark	DNK	HIC	Human	2015	Denmark|E.coli and Shigella|Human	3
+GCA_036500925.1	PDT002074943.1	SAMD00562519	E.coli and Shigella	Ecuador	ECU	LMIC	Human	2019	Ecuador|E.coli and Shigella|Human	2
+GCA_036497865.1	PDT002074927.1	SAMD00562545	E.coli and Shigella	Ecuador	ECU	LMIC	Human	2019	Ecuador|E.coli and Shigella|Human	3
+GCA_053102735.1	PDT002955916.1	SAMN51795732	E.coli and Shigella	Ecuador	ECU	LMIC	Wastewater_Aquatic	2024	Ecuador|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_053102695.1	PDT002955915.1	SAMN51795734	E.coli and Shigella	Ecuador	ECU	LMIC	Wastewater_Aquatic	2024	Ecuador|E.coli and Shigella|Wastewater_Aquatic	3
+GCA_045037835.1	PDT002479294.1	SAMN44530460	Klebsiella pneumoniae	Egypt	EGY	LMIC	Human	2020	Egypt|Klebsiella pneumoniae|Human	2
+GCA_045037375.1	PDT002479292.1	SAMN44530458	Klebsiella pneumoniae	Egypt	EGY	LMIC	Human	2020	Egypt|Klebsiella pneumoniae|Human	3
+GCA_017161505.1	PDT001485774.1	SAMN14082702	Klebsiella pneumoniae	Egypt	EGY	LMIC	Livestock_Poultry	2015	Egypt|Klebsiella pneumoniae|Livestock_Poultry	2
+GCA_017161135.1	PDT000977604.1	SAMN13497075	Klebsiella pneumoniae	Egypt	EGY	LMIC	Livestock_Poultry	2015	Egypt|Klebsiella pneumoniae|Livestock_Poultry	3
+GCA_916098175.1	PDT001207975.1	SAMEA9000152	E.coli and Shigella	France	FRA	HIC	Human	2015	France|E.coli and Shigella|Human	2
+GCA_032359195.1	PDT001915358.1	SAMN33389351	E.coli and Shigella	France	FRA	HIC	Human	2018	France|E.coli and Shigella|Human	3
+GCA_019431315.1	PDT001100304.1	SAMN20003582	E.coli and Shigella	France	FRA	HIC	Livestock_Poultry	2015	France|E.coli and Shigella|Livestock_Poultry	2
+GCA_965282885.1	PDT003116391.1	SAMEA118246669	E.coli and Shigella	France	FRA	HIC	Wastewater_Aquatic	2018	France|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_963924205.1	PDT002135030.1	SAMEA115110145	E.coli and Shigella	France	FRA	HIC	Wastewater_Aquatic	2015	France|E.coli and Shigella|Wastewater_Aquatic	3
+GCA_050157295.1	PDT002759603.1	SAMN42539158	E.coli and Shigella	Germany	DEU	HIC	Human	2022	Germany|E.coli and Shigella|Human	2
+GCA_060216045.1	PDT003336380.1	SAMN54185435	E.coli and Shigella	Germany	DEU	HIC	Human	2021	Germany|E.coli and Shigella|Human	3
+GCA_052765705.1	PDT002936245.1	SAMN50713508	E.coli and Shigella	Germany	DEU	HIC	Wastewater_Aquatic	2023	Germany|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_052767165.1	PDT002936283.1	SAMN50713470	E.coli and Shigella	Germany	DEU	HIC	Wastewater_Aquatic	2023	Germany|E.coli and Shigella|Wastewater_Aquatic	3
+GCA_057810095.1	PDT003235637.1	SAMN53069427	Klebsiella pneumoniae	Germany	DEU	HIC	Human	2024	Germany|Klebsiella pneumoniae|Human	2
+GCA_030845415.1	PDT001858197.1	SAMN36071314	Klebsiella pneumoniae	Germany	DEU	HIC	Human	2015	Germany|Klebsiella pneumoniae|Human	3
+GCA_947663175.2	PDT001592235.2	SAMEA112229044	Klebsiella pneumoniae	Greece	GRC	HIC	Human	2018	Greece|Klebsiella pneumoniae|Human	2
+GCA_947662735.2	PDT001592226.2	SAMEA112229045	Klebsiella pneumoniae	Greece	GRC	HIC	Human	2018	Greece|Klebsiella pneumoniae|Human	3
+GCA_056113455.1	PDT003148169.1	SAMN55192510	Klebsiella pneumoniae	Greece	GRC	HIC	Wastewater_Aquatic	2025	Greece|Klebsiella pneumoniae|Wastewater_Aquatic	2
+GCA_062009796.1	PDT003415092.1	SAMN63244035	E.coli and Shigella	Hong Kong	HKG	HIC	Livestock_Poultry	2019	Hong Kong|E.coli and Shigella|Livestock_Poultry	2
+GCA_022353625.1	PDT001253391.1	SAMN13925551	E.coli and Shigella	Hong Kong	HKG	HIC	Wastewater_Aquatic	2018	Hong Kong|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_024081805.1	PDT001350877.1	SAMN19589280	Klebsiella pneumoniae	Hong Kong	HKG	HIC	Human	2015	Hong Kong|Klebsiella pneumoniae|Human	2
+GCA_022354725.1	PDT001253438.1	SAMN13925595	Klebsiella pneumoniae	Hong Kong	HKG	HIC	Wastewater_Aquatic	2018	Hong Kong|Klebsiella pneumoniae|Wastewater_Aquatic	2
+GCA_054177415.1	PDT003037850.1	SAMN50488977	E.coli and Shigella	Hungary	HUN	HIC	Human	2023	Hungary|E.coli and Shigella|Human	2
+GCA_041870075.1	PDT002373984.1	SAMN42505388	E.coli and Shigella	Hungary	HUN	HIC	Livestock_Poultry	2021	Hungary|E.coli and Shigella|Livestock_Poultry	2
+GCA_022030035.1	PDT001242604.1	SAMN24975554	E.coli and Shigella	India	IND	LMIC	Human	2020	India|E.coli and Shigella|Human	2
+GCA_046629665.1	PDT002565875.1	SAMN34896830	E.coli and Shigella	India	IND	LMIC	Livestock_Poultry	2019	India|E.coli and Shigella|Livestock_Poultry	2
+GCA_040105125.1	PDT002198662.1	SAMN41610980	E.coli and Shigella	India	IND	LMIC	Wastewater_Aquatic	2017	India|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_016925275.1	PDT000972428.1	SAMN17911903	Klebsiella pneumoniae	India	IND	LMIC	Human	2015	India|Klebsiella pneumoniae|Human	2
+GCA_051311065.1	PDT002836430.1	SAMN34896693	Klebsiella pneumoniae	India	IND	LMIC	Livestock_Poultry	2019	India|Klebsiella pneumoniae|Livestock_Poultry	2
+GCA_056640215.1	PDT003171895.1	SAMN54271613	Klebsiella pneumoniae	India	IND	LMIC	Wastewater_Aquatic	2022	India|Klebsiella pneumoniae|Wastewater_Aquatic	2
+GCA_037201825.1	PDT002115267.1	SAMN39925920	E.coli and Shigella	Indonesia	IDN	LMIC	Human	2023	Indonesia|E.coli and Shigella|Human	2
+GCA_044647575.1	PDT002460569.1	SAMN44321998	E.coli and Shigella	Indonesia	IDN	LMIC	Livestock_Poultry	2024	Indonesia|E.coli and Shigella|Livestock_Poultry	2
+GCA_049200455.1	PDT002696508.1	SAMN47424340	E.coli and Shigella	Indonesia	IDN	LMIC	Wastewater_Aquatic	2017	Indonesia|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_040783495.1	PDT002260743.1	SAMN41506266	E.coli and Shigella	Ireland	IRL	HIC	Human	2023	Ireland|E.coli and Shigella|Human	2
+GCA_051549695.1	PDT002857363.1	SAMN46544983	Klebsiella pneumoniae	Ireland	IRL	HIC	Human	2022	Ireland|Klebsiella pneumoniae|Human	2
+GCA_036347655.1	PDT002071991.2	SAMN39589781	Klebsiella pneumoniae	Ireland	IRL	HIC	Wastewater_Aquatic	2018	Ireland|Klebsiella pneumoniae|Wastewater_Aquatic	2
+GCA_013388275.1	PDT000781828.1	SAMN15348021	E.coli and Shigella	Italy	ITA	HIC	Human	2018	Italy|E.coli and Shigella|Human	2
+GCA_062056736.1	PDT003460352.1	SAMN61001405	Klebsiella pneumoniae	Italy	ITA	HIC	Human	2024	Italy|Klebsiella pneumoniae|Human	2
+GCA_059815065.1	PDT003314330.1	SAMN61179618	Klebsiella pneumoniae	Italy	ITA	HIC	Wastewater_Aquatic	2025	Italy|Klebsiella pneumoniae|Wastewater_Aquatic	2
+GCA_060478215.1	PDT003353109.1	SAMN35442835	E.coli and Shigella	Japan	JPN	HIC	Human	2020	Japan|E.coli and Shigella|Human	2
+GCA_055386975.1	PDT003111637.1	SAMD00899035	E.coli and Shigella	Japan	JPN	HIC	Livestock_Poultry	2023	Japan|E.coli and Shigella|Livestock_Poultry	2
+GCA_038396545.1	PDT002142367.1	SAMN39992805	E.coli and Shigella	Japan	JPN	HIC	Wastewater_Aquatic	2019	Japan|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_019915505.1	PDT001126241.1	SAMN20982449	E.coli and Shigella	Kazakhstan	KAZ	LMIC	Human	2021	Kazakhstan|E.coli and Shigella|Human	2
+GCA_016944715.1	PDT000973532.1	SAMN16387495	E.coli and Shigella	Laos	LAO	LMIC	Human	2018	Laos|E.coli and Shigella|Human	2
+GCA_016942615.1	PDT000973525.1	SAMN16387509	E.coli and Shigella	Laos	LAO	LMIC	Livestock_Poultry	2018	Laos|E.coli and Shigella|Livestock_Poultry	2
+GCA_056392015.1	PDT003159237.1	SAMN56562539	Klebsiella pneumoniae	Latvia	LVA	HIC	Wastewater_Aquatic	2024	Latvia|Klebsiella pneumoniae|Wastewater_Aquatic	2
+GCA_048585545.1	PDT002674065.1	SAMN47255921	E.coli and Shigella	Lebanon	LBN	LMIC	Human	2015	Lebanon|E.coli and Shigella|Human	2
+GCA_058350685.1	PDT003261825.1	SAMN55387718	E.coli and Shigella	Lebanon	LBN	LMIC	Livestock_Poultry	2018	Lebanon|E.coli and Shigella|Livestock_Poultry	2
+GCA_050610785.2	PDT002786571.2	SAMN48593420	Klebsiella pneumoniae	Lebanon	LBN	LMIC	Human	2025	Lebanon|Klebsiella pneumoniae|Human	2
+GCA_019443605.1	PDT001101072.1	SAMN14277528	E.coli and Shigella	Mexico	MEX	LMIC	Human	2019	Mexico|E.coli and Shigella|Human	2
+GCA_060479355.1	PDT003353111.1	SAMN60828053	E.coli and Shigella	Mexico	MEX	LMIC	Livestock_Poultry	2018	Mexico|E.coli and Shigella|Livestock_Poultry	2
+GCA_020883395.1	PDT001178515.1	SAMN22569028	E.coli and Shigella	Netherlands	NLD	HIC	Human	2020	Netherlands|E.coli and Shigella|Human	2
+GCA_030013305.1	PDT001736222.1	SAMN32549648	E.coli and Shigella	Netherlands	NLD	HIC	Livestock_Poultry	2020	Netherlands|E.coli and Shigella|Livestock_Poultry	2
+GCA_051608105.1	PDT002860189.1	SAMN48185767	E.coli and Shigella	New Zealand	NZL	HIC	Human	2023	New Zealand|E.coli and Shigella|Human	2
+GCA_014854635.1	PDT000856382.1	SAMN16242922	E.coli and Shigella	New Zealand	NZL	HIC	Wastewater_Aquatic	2020	New Zealand|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_021460155.1	PDT001223087.1	SAMN22108513	Klebsiella pneumoniae	Nigeria	NGA	LMIC	Human	2019	Nigeria|Klebsiella pneumoniae|Human	2
+GCA_904426485.1	PDT000851037.1	SAMEA7287971	E.coli and Shigella	Norway	NOR	HIC	Livestock_Poultry	2015	Norway|E.coli and Shigella|Livestock_Poultry	2
+GCA_013282275.1	PDT000761318.1	SAMN12560240	E.coli and Shigella	Norway	NOR	HIC	Wastewater_Aquatic	2018	Norway|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_041869855.1	PDT002376966.1	SAMN40910783	Klebsiella pneumoniae	Norway	NOR	HIC	Human	2018	Norway|Klebsiella pneumoniae|Human	2
+GCA_041861035.1	PDT002371024.1	SAMN28626275	Klebsiella pneumoniae	Norway	NOR	HIC	Livestock_Poultry	2019	Norway|Klebsiella pneumoniae|Livestock_Poultry	2
+GCA_003028695.1	PDT000997268.1	SAMN07196158	E.coli and Shigella	Pakistan	PAK	LMIC	Human	2016	Pakistan|E.coli and Shigella|Human	2
+GCA_019428745.1	PDT001100287.1	SAMN20353475	E.coli and Shigella	Pakistan	PAK	LMIC	Livestock_Poultry	2020	Pakistan|E.coli and Shigella|Livestock_Poultry	2
+GCA_040784905.1	PDT002260984.1	SAMN42017831	E.coli and Shigella	Pakistan	PAK	LMIC	Wastewater_Aquatic	2017	Pakistan|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_017570685.1	PDT000990560.1	SAMN17831481	E.coli and Shigella	Poland	POL	HIC	Human	2017	Poland|E.coli and Shigella|Human	2
+GCA_037081895.1	PDT002107257.1	SAMN40199719	E.coli and Shigella	Poland	POL	HIC	Wastewater_Aquatic	2021	Poland|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_054720965.1	PDT003070126.1	SAMN54623321	E.coli and Shigella	Russia	RUS	HIC	Human	2025	Russia|E.coli and Shigella|Human	2
+GCA_030285545.1	PDT001783385.1	SAMN35637913	E.coli and Shigella	Russia	RUS	HIC	Livestock_Poultry	2020	Russia|E.coli and Shigella|Livestock_Poultry	2
+GCA_029854395.1	PDT001700010.1	SAMN33841339	E.coli and Shigella	South Africa	ZAF	LMIC	Livestock_Poultry	2021	South Africa|E.coli and Shigella|Livestock_Poultry	2
+GCA_041900535.1	PDT002379283.1	SAMN42378506	E.coli and Shigella	South Korea	KOR	HIC	Human	2021	South Korea|E.coli and Shigella|Human	2
+GCA_037568285.1	PDT002123704.1	SAMN40441580	E.coli and Shigella	South Korea	KOR	HIC	Livestock_Poultry	2023	South Korea|E.coli and Shigella|Livestock_Poultry	2
+GCA_039654195.1	PDT002167822.1	SAMN41243834	E.coli and Shigella	South Korea	KOR	HIC	Wastewater_Aquatic	2024	South Korea|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_905219085.2	PDT001185014.2	SAMEA7853258	Klebsiella pneumoniae	Spain	ESP	HIC	Human	2018	Spain|Klebsiella pneumoniae|Human	2
+GCA_045801205.1	PDT002521527.1	SAMN44771391	Klebsiella pneumoniae	Spain	ESP	HIC	Wastewater_Aquatic	2022	Spain|Klebsiella pneumoniae|Wastewater_Aquatic	2
+GCA_061111205.1	PDT003376697.1	SAMN44459445	Klebsiella pneumoniae	Sweden	SWE	HIC	Human	2023	Sweden|Klebsiella pneumoniae|Human	2
+GCA_013146745.1	PDT000745134.1	SAMN14133042	E.coli and Shigella	Switzerland	CHE	HIC	Human	2019	Switzerland|E.coli and Shigella|Human	2
+GCA_046107155.1	PDT002539643.1	SAMN40411726	E.coli and Shigella	Switzerland	CHE	HIC	Livestock_Poultry	2019	Switzerland|E.coli and Shigella|Livestock_Poultry	2
+GCA_029987955.1	PDT001730306.1	SAMN34375061	E.coli and Shigella	Switzerland	CHE	HIC	Wastewater_Aquatic	2021	Switzerland|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_021137935.1	PDT001201757.1	SAMN21016543	Klebsiella pneumoniae	Switzerland	CHE	HIC	Human	2020	Switzerland|Klebsiella pneumoniae|Human	2
+GCA_053078475.1	PDT002955305.1	SAMN46862821	Klebsiella pneumoniae	Switzerland	CHE	HIC	Livestock_Poultry	2024	Switzerland|Klebsiella pneumoniae|Livestock_Poultry	2
+GCA_057396575.1	PDT003212042.1	SAMN57316798	Klebsiella pneumoniae	Taiwan		Unclassified	Human	2025	Taiwan|Klebsiella pneumoniae|Human	2
+GCA_056093355.1	PDT003148156.1	SAMN47611888	Klebsiella pneumoniae	Taiwan		Unclassified	Wastewater_Aquatic	2020	Taiwan|Klebsiella pneumoniae|Wastewater_Aquatic	2
+GCA_054391535.1	PDT003047979.1	SAMN53669762	Klebsiella pneumoniae	Tanzania	TZA	LMIC	Human	2022	Tanzania|Klebsiella pneumoniae|Human	2
+GCA_024499115.1	PDT001377107.1	SAMN19296499	E.coli and Shigella	Thailand	THA	LMIC	Human	2017	Thailand|E.coli and Shigella|Human	2
+GCA_028551195.1	PDT001611076.1	SAMN32924205	E.coli and Shigella	Thailand	THA	LMIC	Livestock_Poultry	2018	Thailand|E.coli and Shigella|Livestock_Poultry	2
+GCA_048011955.1	PDT002643425.1	SAMN46797823	E.coli and Shigella	Thailand	THA	LMIC	Wastewater_Aquatic	2022	Thailand|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_018208295.1	PDT001016799.1	SAMN16339682	E.coli and Shigella	Turkey	TUR	LMIC	Human	2018	Turkey|E.coli and Shigella|Human	2
+GCA_022385215.1	PDT001254234.1	SAMN26012974	E.coli and Shigella	Turkey	TUR	LMIC	Wastewater_Aquatic	2021	Turkey|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_057960855.1	PDT003241984.1	SAMN53177136	E.coli and Shigella	USA	USA	HIC	Human	2022	USA|E.coli and Shigella|Human	2
+GCA_060039465.1	PDT003327341.1	SAMN48755055	E.coli and Shigella	USA	USA	HIC	Livestock_Poultry	2020	USA|E.coli and Shigella|Livestock_Poultry	2
+GCA_046048795.1	PDT002531855.1	SAMN16387627	E.coli and Shigella	USA	USA	HIC	Wastewater_Aquatic	2017	USA|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_027595585.1	PDT001571527.1	SAMN16387630	Klebsiella pneumoniae	USA	USA	HIC	Human	2017	USA|Klebsiella pneumoniae|Human	2
+GCA_051099805.1	PDT002817527.1	SAMN39530328	Klebsiella pneumoniae	USA	USA	HIC	Wastewater_Aquatic	2018	USA|Klebsiella pneumoniae|Wastewater_Aquatic	2
+GCA_043227305.1	PDT002421250.1	SAMN44118130	E.coli and Shigella	Uganda	UGA	LMIC	Human	2022	Uganda|E.coli and Shigella|Human	2
+GCA_030019735.1	PDT001737245.1	SAMN34598754	E.coli and Shigella	Uganda	UGA	LMIC	Wastewater_Aquatic	2018	Uganda|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_988260015.1	PDT003433744.1	SAMEA121553802	E.coli and Shigella	United Kingdom	GBR	HIC	Human	2024	United Kingdom|E.coli and Shigella|Human	2
+GCA_029719665.1	PDT001690382.1	SAMN15488692	E.coli and Shigella	United Kingdom	GBR	HIC	Livestock_Poultry	2017	United Kingdom|E.coli and Shigella|Livestock_Poultry	2
+GCA_029718725.1	PDT001690355.1	SAMN15488567	E.coli and Shigella	United Kingdom	GBR	HIC	Wastewater_Aquatic	2017	United Kingdom|E.coli and Shigella|Wastewater_Aquatic	2
+GCA_988243265.1	PDT003385905.1	SAMEA118770120	Klebsiella pneumoniae	United Kingdom	GBR	HIC	Human	2024	United Kingdom|Klebsiella pneumoniae|Human	2
+GCA_013826045.1	PDT000799937.1	SAMN15148290	Klebsiella pneumoniae	United Kingdom	GBR	HIC	Livestock_Poultry	2017	United Kingdom|Klebsiella pneumoniae|Livestock_Poultry	2
+GCA_013731305.1	PDT000799001.1	SAMN15148711	Klebsiella pneumoniae	United Kingdom	GBR	HIC	Wastewater_Aquatic	2017	United Kingdom|Klebsiella pneumoniae|Wastewater_Aquatic	2
+GCA_036505675.1	PDT002074991.1	SAMD00562603	E.coli and Shigella	Viet Nam	VNM	LMIC	Human	2017	Viet Nam|E.coli and Shigella|Human	2
+GCA_055397265.1	PDT003111692.1	SAMD00806551	E.coli and Shigella	Viet Nam	VNM	LMIC	Livestock_Poultry	2023	Viet Nam|E.coli and Shigella|Livestock_Poultry	2
+GCA_007873865.1	PDT000559092.1	SAMN09104544	Klebsiella pneumoniae	Viet Nam	VNM	LMIC	Human	2015	Viet Nam|Klebsiella pneumoniae|Human	2
