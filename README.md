@@ -1,6 +1,6 @@
 # Plasmid Localization and Last-Resort Antimicrobial Resistance Across Human, Livestock, and Wastewater Sectors: A Complete-Genome Study from 50 Countries
 
-**Authors:** Muhammad Ahmad Khan, Malik Muhammad Osama, Abdul Hakim
+**Author:** Muhammad Ahmad Khan
 Centre of Biotechnology and Microbiology (COBAM), University of Peshawar, Pakistan
 
 LaTeX source of the preprint-ready manuscript, with figures, supplementary Table S1,
