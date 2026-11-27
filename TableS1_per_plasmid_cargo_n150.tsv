@@ -1,0 +1,125 @@
+primary_cluster_id	secondary_cluster_id	asm_acc	contig_key	species	sector	country	year	income_group	size_kb	replicon	n_acquired_amr	acquired_amr_on_plasmid	stress_genes_on_plasmid
+AA002	AH539	GCA_045037455.1	CP173434.1	Klebsiella pneumoniae	Human	Egypt	2020	LMIC	63.6	IncL/M	1	blaOXA-48	
+AA002	AH529	GCA_056268965.2	JBTYJY020000003.1	Klebsiella pneumoniae	Human	Lebanon	2025	LMIC	69.9	IncL/M	5	aph(3'')-Ib, aph(3')-VIb, aph(6)-Id, blaCTX-M-14, blaOXA-48	
+AA002	AH529	GCA_017161485.1	CP048781.1	Klebsiella pneumoniae	Livestock_Poultry	Egypt	2015	LMIC	66.5	IncL/M	4	aph(3'')-Ib, aph(3')-VIb, aph(6)-Id, blaCTX-M-14	
+AA002	AH539	GCA_036687385.1	CP144703.1	Klebsiella pneumoniae	Wastewater_Aquatic	Ireland	2018	HIC	63.6	IncL/M	1	blaOXA-48	
+AA002	AH539	GCA_002211665.1	CP022147.1	Klebsiella pneumoniae	Wastewater_Aquatic	Switzerland	2015	HIC	63.6	IncL/M	1	blaOXA-48	
+AA018	AH562	GCA_055476075.1	CP158715.1	Klebsiella pneumoniae	Human	Brazil	2021	LMIC	125.0	IncFIB,IncFII,rep_cluster_2183	1	blaCTX-M-15	
+AA018	AH562	GCA_055476075.1	CP158717.1	Klebsiella pneumoniae	Human	Brazil	2021	LMIC	125.0	IncFIB,IncFII,rep_cluster_2183	9	aac(6')-Ib, aadA1, aph(3')-VI, blaCTX-M-15, blaNDM-1, blaOXA-9, blaTEM-1, ble, qnrS1	
+AA018	AH561	GCA_964271355.1	OZ185745.1	Klebsiella pneumoniae	Human	Greece	2020	HIC	126.0	IncFIB,IncFII	3	blaKPC-2, blaOXA, blaTEM-1	merC
+AA018	-	GCA_036347675.1	CP143508.1	Klebsiella pneumoniae	Human	Ireland	2020	HIC	301.4	IncFIB,IncFIB,IncFII,IncFII,rep_cluster_2183	3	blaKPC-2, blaOXA, blaTEM-1	clpK, hdeD-GI, hsp20, kefB-GI, merC, pcoA, pcoB, pcoC, pcoD, pcoR, pcoS, psi-GI, shsP, silA, silB, silC, silE, silF, silP, silR, silS, trxLHR, yfdX1, yfdX2
+AA018	AH561	GCA_025118455.1	CP100313.1	Klebsiella pneumoniae	Human	Italy	2021	HIC	116.5	IncFIB,IncFII,rep_cluster_2183	3	blaKPC-110, blaOXA, blaTEM-1	merC
+AA018	AH561	GCA_056113445.1	JBVYOW010000003.1	Klebsiella pneumoniae	Wastewater_Aquatic	Greece	2025	HIC	101.0	IncFIB,IncFII,rep_cluster_2183	1	blaKPC-2	
+AA038	AH614	GCA_062080493.1	JCFYWV010000004.1	Klebsiella pneumoniae	Human	Latvia	2025	HIC	69.0	ColRNAI_rep_cluster_1857,IncX3	1	blaKPC-3	
+AA038	AH614	GCA_062080493.1	JCFYWV010000005.1	Klebsiella pneumoniae	Human	Latvia	2025	HIC	69.0	ColRNAI_rep_cluster_1857,IncX3	1	aac(6')-Ib	
+AA038	AH614	GCA_905329705.2	OW967426.1	Klebsiella pneumoniae	Human	Spain	2018	HIC	58.2	ColRNAI_rep_cluster_1857,IncX3	1	aac(6')-Ib	
+AA038	AH615	GCA_022385195.1	CP092451.1	E.coli and Shigella	Wastewater_Aquatic	Turkey	2021	LMIC	46.8	IncX3	4	aadA22, blaSHV-12, lnu(F), qnrS1	
+AA170	AH818	GCA_036287825.1	CP143093.1	E.coli and Shigella	Human	Ireland	2019	HIC	124.3	IncFIA,IncFIA,IncFIC	10	aadA2, blaNDM-5, blaTEM-1, ble, dfrA12, mph(A), mrx(A), rmtB1, sul1, tet(A)	qacEdelta1
+AA170	AH820	GCA_904711295.1	LR882053.1	E.coli and Shigella	Livestock_Poultry	Norway	2015	HIC	164.0	IncFIA,IncFIC,IncFIB,IncFII,IncQ1	12	aac(3)-IIe, aadA5, aph(3'')-Ib, aph(3')-Ia, aph(6)-Id, blaTEM-1, dfrA17, mph(A), mrx(A), sul1, sul2, tet(B)	merC, merP, merR, merT, qacEdelta1
+AA170	AH820	GCA_904711295.1	LR882055.1	E.coli and Shigella	Livestock_Poultry	Norway	2015	HIC	164.0	IncFIA,IncFIC,IncFIB,IncFII,IncQ1	6	aadA2, blaTEM, catA1, floR, lnu(F), qnrS1	
+AA170	AH820	GCA_052765445.1	JBQRCH010000002.1	E.coli and Shigella	Wastewater_Aquatic	Germany	2023	HIC	280.9	IncFIA,IncFIB,IncFIC,IncFII	7	blaCTX-M-15, blaTEM-1, dfrA7, mph(A), mrx(A), sul1, tet(B)	qacEdelta1
+AA170	AH818	GCA_045290265.1	CP142926.1	E.coli and Shigella	Wastewater_Aquatic	Ireland	2020	HIC	119.0	IncFIA,IncFIA,IncFIC	8	aadA2, blaNDM-5, ble, dfrA12, mph(A), mrx(A), sul1, tet(A)	qacEdelta1
+AA171	AH824	GCA_024199045.2	CP141206.1	E.coli and Shigella	Human	Denmark	2020	HIC	106.7	IncFIA,IncFIA,IncFIB,IncFII,rep_cluster_2131	1	blaCTX-M-255	
+AA171	AH824	GCA_060478235.1	JCBOZF010000002.1	E.coli and Shigella	Human	Japan	2020	HIC	117.1	IncFIA,IncFIA,IncFIB,IncFII,rep_cluster_2131	2	aac(3)-IId, blaTEM-1	
+AA171	AH824	GCA_048585695.1	CP184115.1	E.coli and Shigella	Human	Philippines	2017	LMIC	109.3	IncFIA,IncFIA,IncFIB,IncFII,rep_cluster_2131	1	blaCTX-M-27	
+AA171	AH825	GCA_054720765.1	JBTVPZ010000002.1	E.coli and Shigella	Human	Russia	2025	HIC	170.1	IncFIA,IncFIA,IncFIA,IncFIB,rep_cluster_2131	10	aadA5, aph(3'')-Ib, aph(6)-Id, blaCTX-M-27, dfrA17, mph(A), mrx(A), sul1, sul2, tet(A)	qacEdelta1
+AA171	AH824	GCA_030020015.1	CP125014.1	E.coli and Shigella	Wastewater_Aquatic	Uganda	2018	LMIC	90.9	IncFIB,IncFII,rep_cluster_2131	8	aac(3)-IId, aadA5, blaTEM-1, dfrA17, erm(B), mph(A), mrx(A), sul1	qacEdelta1
+AA175	AH851	GCA_031785675.1	CP133918.1	E.coli and Shigella	Human	Argentina	2018	LMIC	164.8	IncFIB,IncFIC,IncX1,rep_cluster_2244	3	blaTEM, blaTEM-1, tet(A)	
+AA175	AH849	GCA_053347075.2	JBRYZE020000005.1	E.coli and Shigella	Livestock_Poultry	Bangladesh	2022	LMIC	137.6	IncFIB,IncFIC,rep_cluster_2244	2	blaTEM-1, floR	
+AA176	AH858	GCA_017570645.1	CP069678.1	E.coli and Shigella	Human	Poland	2018	HIC	146.9	IncFIB,IncFIC,rep_cluster_2244	5	aadA1, blaTEM-1, dfrA1, sul3, tet(A)	qacL
+AA176	AH859	GCA_058350665.1	JBVKFE010000002.1	E.coli and Shigella	Livestock_Poultry	Lebanon	2018	LMIC	155.9	IncFIA,IncFIB,IncFIC,rep_cluster_2244	2	aac(3)-IId, blaTEM-1	
+AA176	AH859	GCA_037575825.1	CP148494.1	E.coli and Shigella	Livestock_Poultry	South Korea	2023	HIC	248.0	IncFIA,IncFIB,IncFIC,rep_cluster_2232,IncFIA,IncFII	6	aph(3'')-Ib, aph(6)-Id, blaTEM-1, floR, sul2, tet(A)	merR
+AA176	AH856	GCA_044324895.1	CP172204.1	E.coli and Shigella	Livestock_Poultry	Switzerland	2024	HIC	152.4	IncFIB,IncFIC,rep_cluster_2244	3	aph(3'')-Ib, aph(6)-Id, tet(B)	
+AA176	AH856	GCA_059693525.1	JCAUKO010000002.1	E.coli and Shigella	Wastewater_Aquatic	India	2024	LMIC	119.2	IncFIA,IncFIB,IncFIC,IncQ1	3	aph(3'')-Ib, aph(6)-Id, sul2	merC, merP, merR, merT
+AA176	AH859	GCA_038396485.1	CP147070.1	E.coli and Shigella	Wastewater_Aquatic	Japan	2015	HIC	143.9	IncFIB,IncFIC,rep_cluster_2244	5	blaTEM, dfrA17, oqxA, oqxB, tet(A)	
+AA274	AI068	GCA_016801375.1	CP069047.1	Klebsiella pneumoniae	Human	Colombia	2015	LMIC	352.1	IncFIB,IncFII,rep_cluster_2183,IncFII,rep_cluster_1418,IncR,IncR	1	catA1	arsA, arsB, arsC, arsD, arsR, clpK, hsp20, pcoA, pcoB, pcoC, pcoD, pcoE, pcoR, pcoS, silA, silB, silC, silE, silF, silP, silR, silS
+AA274	AI068	GCA_016801375.1	CP069049.1	Klebsiella pneumoniae	Human	Colombia	2015	LMIC	352.1	IncFIB,IncFII,rep_cluster_2183,IncFII,rep_cluster_1418,IncR,IncR	3	aac(6')-Ib, blaSHV-12, blaTEM	
+AA274	AI068	GCA_016801375.1	CP069051.1	Klebsiella pneumoniae	Human	Colombia	2015	LMIC	352.1	IncFIB,IncFII,rep_cluster_2183,IncFII,rep_cluster_1418,IncR,IncR	8	aac(3)-IVa, aac(6')-Ib, aadA1, aadA2, aph(4)-Ia, cmlA1, estX-3, sul3	qacL
+AA274	AI073	GCA_036687385.1	CP144704.1	Klebsiella pneumoniae	Wastewater_Aquatic	Ireland	2018	HIC	132.4	IncFIB	11	aac(3)-IIe, aac(6')-Ib-cr5, aadA2, aph(3')-Ia, blaCTX-M-15, blaOXA-1, catB3, dfrA12, mph(A), mrx(A), sul1	arsA, arsB, arsC, arsD, arsR, clpK, hsp20, pcoA, pcoB, pcoC, pcoD, pcoE, pcoR, pcoS, qacEdelta1, silA, silB, silC, silE, silF, silP, silR, silS
+AA275	AI074	GCA_062080493.1	JCFYWV010000003.1	Klebsiella pneumoniae	Human	Latvia	2025	HIC	190.7	IncFIB,IncFII,rep_cluster_2183	8	aac(6')-Ib, aadA2, aph(3')-Ia, catA1, dfrA12, mph(A), mrx(A), sul1	arsA, arsB, arsC, arsD, arsR, clpK, hsp20, pcoA, pcoB, pcoC, pcoD, pcoE, pcoR, pcoS, qacEdelta1, silA, silB, silC, silE, silF, silP, silR, silS
+AA275	AI074	GCA_011784905.1	CP050457.1	Klebsiella pneumoniae	Human	Poland	2017	HIC	146.7	IncFIB	1	tet(D)	arsA, arsB, arsC, arsD, arsR, clpK, hsp20, pcoA, pcoB, pcoC, pcoD, pcoE, pcoR, pcoS, silA, silB, silC, silE, silF, silP, silR, silS
+AA275	AI074	GCA_054391795.1	JBSTRL010000002.1	Klebsiella pneumoniae	Human	Tanzania	2022	LMIC	215.5	IncFIB,IncFII,rep_cluster_2183	8	aac(3)-IIe, aac(6')-Ib-cr5, blaCTX-M-15, blaOXA-1, catB3, dfrA7, sul1, tet(D)	arsA, arsB, arsC, arsD, arsR, clpK, hsp20, pcoA, pcoB, pcoC, pcoD, pcoE, pcoR, pcoS, qacEdelta1, silA, silB, silC, silE, silF, silP, silR, silS
+AA275	AI077	GCA_013282295.1	CP042883.1	Klebsiella pneumoniae	Wastewater_Aquatic	Norway	2018	HIC	194.9	IncFIB,IncFII,rep_cluster_2183	2	blaCTX-M-15, blaTEM-1	arsA, arsB, arsC, arsD, arsR, clpK, hsp20, pcoA, pcoB, pcoC, pcoD, pcoE, pcoR, pcoS, silA, silB, silC, silE, silF, silP, silR, silS
+AA275	AI074	GCA_002211665.1	CP022145.1	Klebsiella pneumoniae	Wastewater_Aquatic	Switzerland	2015	HIC	197.7	IncFIB,IncFII,rep_cluster_2183	4	aph(3')-Ia, mph(A), mrx(A), sul1	arsA, arsB, arsC, arsD, arsR, clpK, hsp20, pcoA, pcoB, pcoC, pcoD, pcoE, pcoR, pcoS, qacEdelta1, silA, silB, silC, silE, silF, silP, silR, silS
+AA277	AI089	GCA_015694085.1	CP065168.1	Klebsiella pneumoniae	Human	Australia	2017	HIC	236.6	IncFIB,IncFII	10	aac(6')-Ib-cr5, aph(3'')-Ib, aph(6)-Id, blaCTX-M-15, blaOXA-1, blaTEM-1, catB3, dfrA14, qnrB1, sul2	arsA, arsB, arsC, arsD, arsR, clpK, hsp20, pcoA, pcoB, pcoC, pcoD, pcoE, pcoR, pcoS, silA, silB, silC, silE, silF, silP, silR, silS
+AA277	AI089	GCA_022759645.1	CP086462.1	Klebsiella pneumoniae	Human	Switzerland	2017	HIC	246.8	IncFIB,IncFII	12	aac(3)-IIe, aac(6')-Ib-cr5, aph(3'')-Ib, aph(6)-Id, blaCTX-M-15, blaOXA-1, blaTEM-1, catB3, dfrA14, qnrB1, sul2, tet(A)	arsA, arsB, arsC, arsD, arsR, clpK, hsp20, pcoA, pcoB, pcoC, pcoD, pcoE, pcoR, pcoS, silA, silB, silC, silE, silF, silP, silR, silS
+AA277	AI089	GCA_029625055.1	CP121134.1	Klebsiella pneumoniae	Human	United Kingdom	2018	HIC	247.2	IncFIB,IncFII	12	aac(3)-IIe, aac(6')-Ib-cr5, aph(3'')-Ib, aph(6)-Id, blaCTX-M-15, blaOXA-1, blaTEM-1, catB3, dfrA14, qnrB1, sul2, tet(A)	arsA, arsB, arsC, arsD, arsR, clpK, hsp20, pcoA, pcoB, pcoC, pcoD, pcoE, pcoR, pcoS, silA, silB, silC, silE, silF, silP, silR, silS
+AA277	-	GCA_017161485.1	CP048779.1	Klebsiella pneumoniae	Livestock_Poultry	Egypt	2015	LMIC	337.8	IncFIB,IncFII,IncFII,IncR,rep_cluster_2183	5	aph(3'')-Ib, aph(6)-Id, blaTEM-1, catA2, sul2	pcoA, pcoB, pcoC, pcoD, pcoR, pcoS, silA, silB, silC, silE, silF, silP, silR, silS
+AA277	-	GCA_017161485.1	CP048780.1	Klebsiella pneumoniae	Livestock_Poultry	Egypt	2015	LMIC	337.8	IncFIB,IncFII,IncFII,IncR,rep_cluster_2183	8	aac(6')-Il, aph(3')-VI, blaNDM-1, blaOXA-10, blaSHV-12, ble, qnrS1, sul1	merR, merT, qacEdelta1
+AA277	AI089	GCA_051098905.1	CP143926.1	Klebsiella pneumoniae	Wastewater_Aquatic	USA	2018	HIC	243.0	IncFIB,IncFII	11	aac(6')-Ib-cr5, aph(3'')-Ib, aph(6)-Id, blaCTX-M-15, blaOXA-1, blaTEM-1, catB3, dfrA14, qnrB1, sul2, tet(A)	arsA, arsB, arsC, arsD, arsR, clpK, hsp20, pcoA, pcoB, pcoC, pcoD, pcoE, pcoR, pcoS, silA, silB, silC, silE, silF, silP, silR, silS
+AA282	AI113	GCA_023376095.1	CP049846.1	E.coli and Shigella	Human	Mexico	2019	LMIC	109.5	IncK2/Z	4	aadA1, dfrA1, sat2, sul2	
+AA282	AI113	GCA_030013045.1	CP122602.1	E.coli and Shigella	Livestock_Poultry	Netherlands	2021	HIC	109.2	IncI-gamma/K1	6	aadA1, blaTEM-1, dfrA1, sat2, sul2, tet(B)	
+AA282	AI114	GCA_030020015.1	CP125015.1	E.coli and Shigella	Wastewater_Aquatic	Uganda	2018	LMIC	95.1	IncK2/Z	1	blaCTX-M-55	
+AA324	AI219	GCA_054177465.1	JBQIAZ010000002.1	E.coli and Shigella	Human	Hungary	2023	HIC	139.7	IncFIA,IncFIA,IncFIB	5	aph(3'')-Ib, aph(6)-Id, blaTEM-1, sul2, tet(A)	
+AA324	AI219	GCA_019915525.1	CP082832.1	E.coli and Shigella	Human	Kazakhstan	2021	LMIC	186.4	IncFIA,IncFIA,IncFIB,rep_cluster_2131	6	aadA5, dfrA17, mph(A), mrx(A), sul1, tet(A)	qacEdelta1
+AA324	AI219	GCA_055697635.1	CP189501.1	E.coli and Shigella	Human	Switzerland	2017	HIC	136.1	IncFIA,IncFIA,IncFIB,IncFIC,rep_cluster_2131	8	aph(3'')-Ib, aph(6)-Id, blaTEM-1, dfrA14, mph(A), mrx(A), sul2, tet(B)	merC, merP, merR, merT
+AA324	AI218	GCA_053102825.1	JBRNHL010000002.1	E.coli and Shigella	Wastewater_Aquatic	Ecuador	2024	LMIC	124.3	IncFIA,IncFIA,IncFIA,IncFIB,IncFIC	6	aadA5, blaTEM-1, dfrA17, mph(A), mrx(A), sul1	qacEdelta1
+AA324	AI219	GCA_055456395.1	JBVDMR010000005.1	E.coli and Shigella	Wastewater_Aquatic	France	2018	HIC	122.6	IncFIA,IncFIA,IncFIA,IncFIB	2	dfrA17, tet(B)	
+AA324	AI219	GCA_053668395.1	JBSJPC010000002.1	E.coli and Shigella	Wastewater_Aquatic	Philippines	2024	LMIC	140.3	IncFIA,IncFIA,IncFIB,IncFIC	10	aac(6')-Ib-cr5, aadA5, blaCTX-M-15, blaOXA-1, catB3, dfrA17, mph(A), mrx(A), sul1, tet(B)	qacEdelta1
+AA337	AI278	GCA_055283135.1	JBUZJN010000002.1	E.coli and Shigella	Human	China	2023	LMIC	193.3	IncFIA,IncFIB,IncFIC,rep_cluster_2131,IncFIA,IncFII	2	aac(3)-IId, blaTEM-1	
+AA337	AI278	GCA_044758935.1	CP172869.1	E.coli and Shigella	Livestock_Poultry	Kazakhstan	2024	LMIC	119.9	IncFIA,IncFIB,IncFIC,rep_cluster_2131	1	blaTEM-1	
+AA337	AI278	GCA_051776285.1	CP196492.1	E.coli and Shigella	Livestock_Poultry	Nigeria	2024	LMIC	147.8	IncFIA,IncFIB,IncFIC,rep_cluster_2131	11	aac(3)-IId, aadA5, aph(3'')-Ib, aph(6)-Id, blaTEM-1, dfrA17, mph(A), mrx(A), sul1, sul2, tet(A)	qacEdelta1
+AA337	AI278	GCA_029989245.1	CP124348.1	E.coli and Shigella	Wastewater_Aquatic	Switzerland	2021	HIC	146.6	IncFIA,IncFIB,IncFIC,rep_cluster_2131	11	aac(3)-IId, aadA5, aph(3'')-Ib, aph(6)-Id, blaTEM-1, dfrA17, mph(A), mrx(A), sul1, sul2, tet(A)	qacEdelta1
+AA338	AI283	GCA_011769725.1	CP050367.1	Klebsiella pneumoniae	Human	Czech Republic	2018	HIC	103.1	IncFIA,IncFIC	10	aadA2, blaNDM-5, blaTEM-1, ble, dfrA12, erm(B), mph(A), mrx(A), rmtB1, sul1	qacEdelta1
+AA338	AI283	GCA_051608995.1	CP195437.1	E.coli and Shigella	Human	New Zealand	2023	HIC	96.6	IncFIA,IncFIC	10	aadA2, blaNDM-5, blaTEM-1, ble, dfrA12, erm(B), mph(A), mrx(A), rmtB1, sul1	qacEdelta1
+AA338	AI281	GCA_045344995.1	CP148333.1	E.coli and Shigella	Human	South Korea	2023	HIC	81.6	IncFIA,IncFIC	6	blaDHA-1, dfrA17, mph(A), mrx(A), qnrB4, sul1	qacE
+AA338	AI281	GCA_011764365.2	AP023341.1	Klebsiella pneumoniae	Human	Viet Nam	2015	LMIC	71.2	IncFIA,IncFIC	3	blaCTX-M-15, blaTEM, fosA3	
+AA338	AI284	GCA_022494115.1	CP058840.1	E.coli and Shigella	Wastewater_Aquatic	Hong Kong	2018	HIC	99.0	IncFIA,IncFIC	6	aac(6')-Ib3, blaCTX-M-14, cmlA1, erm(B), mph(A), mrx(A)	qacEdelta1
+AA338	AI281	GCA_013282315.1	CP042887.1	E.coli and Shigella	Wastewater_Aquatic	Norway	2019	HIC	68.6	IncFIA,IncFIC	2	mph(A), mrx(A)	
+AA372	AI348	GCA_016801375.1	CP069050.1	Klebsiella pneumoniae	Human	Colombia	2015	LMIC	74.8	IncI2	2	blaKPC-3, blaTEM-1	
+AA372	AI350	GCA_007993675.2	CP042471.2	E.coli and Shigella	Livestock_Poultry	Algeria	2017	LMIC	62.0	IncI2	1	mcr-1.1	
+AA372	AI350	GCA_058350665.1	JBVKFE010000004.1	E.coli and Shigella	Livestock_Poultry	Lebanon	2018	LMIC	64.7	IncI2	1	estT	
+AA372	AI350	GCA_053698915.1	JBRAWR010000005.1	E.coli and Shigella	Wastewater_Aquatic	New Zealand	2020	HIC	63.7	IncI2	1	mcr-1.1	
+AA402	AI428	GCA_015219805.1	CP063216.1	Klebsiella pneumoniae	Human	Hong Kong	2017	HIC	273.8	IncFIB,IncHI1B	15	aph(3'')-Ib, aph(3')-Ia, aph(6)-Id, armA, blaDHA-1, dfrA25, mph(A), mph(E), mrx(A), msr(E), qnrB4, sul1, tmexC1, tmexD1, toprJ1	merA, merC, merD, merE, merP, merR, merT, qacE, qacEdelta1, terA, terB, terC, terD, terE
+AA402	AI428	GCA_056382215.1	JBTLFN010000002.1	Klebsiella pneumoniae	Livestock_Poultry	Nigeria	2024	LMIC	201.6	IncFIB,IncHI1B	13	aac(3)-IIe, aac(6')-Ib-cr5, aadA1, blaCTX-M-15, blaLAP-2, blaOXA-1, blaTEM-1, catA1, catB3, dfrA15, qnrS, sul1, tet(A)	merD, merP, merR, merT, qacEdelta1
+AA402	AI429	GCA_022353585.1	CP055175.1	Klebsiella pneumoniae	Wastewater_Aquatic	Hong Kong	2018	HIC	233.4	IncFIB,IncHI1B,IncU	11	aadA2, aph(3'')-Ib, aph(3')-Ia, aph(6)-Id, catA1, dfrA12, mph(A), mrx(A), sul1, sul2, tet(D)	clpK, hsp20, merP, merR, merT, pcoA, pcoB, pcoC, pcoD, pcoE, pcoR, pcoS, qacEdelta1, silA, silB, silC, silE, silF, silP, silR, silS
+AA405	AI436	GCA_045037455.1	CP173433.1	Klebsiella pneumoniae	Human	Egypt	2020	LMIC	355.6	IncFIB,IncHI1B	14	aac(6')-Ib, aadA1, aph(3')-VI, blaCTX-M-15, blaNDM-5, blaOXA, blaTEM-1, ble, catA1, dfrA5, mph(A), mrx(A), qnrS1, sul1	qacEdelta1, terA, terB, terC, terD, terE
+AA405	AI436	GCA_056268965.2	JBTYJY020000002.1	Klebsiella pneumoniae	Human	Lebanon	2025	LMIC	369.2	IncFIB,IncHI1B,rep_cluster_1254	19	aac(6')-Ib, aadA1, aph(3')-Ia, aph(3')-VI, armA, blaCTX-M-15, blaNDM-5, blaOXA, blaTEM-1, ble, catA1, dfrA5, mph(A), mph(E), mrx(A), msr(E), qnrS1, sul1, sul2	qacEdelta1, terA, terB, terC, terD, terE
+AA405	AI436	GCA_061110765.1	CP171814.1	Klebsiella pneumoniae	Human	Sweden	2022	HIC	350.7	IncFIB,IncHI1B,rep_cluster_1254	12	aph(3')-VI, armA, blaNDM-1, ble, dfrA5, mph(A), mph(E), mrx(A), msr(E), qnrS1, sul1, sul2	qacEdelta1, terA, terB, terC, terD, terE
+AA405	AI436	GCA_050357975.2	ABYYHS020000002.1	Klebsiella pneumoniae	Human	USA	2025	HIC	332.2	IncFIB,IncHI1B	10	aph(3')-VI, blaCTX-M-15, blaNDM-5, ble, catA1, dfrA5, mph(A), mrx(A), qnrS1, sul1	qacEdelta1, terA, terB, terC, terD, terE
+AA405	AI440	GCA_011764365.2	AP023338.1	Klebsiella pneumoniae	Human	Viet Nam	2015	LMIC	288.0	IncFIB,IncHI1B,rep_cluster_1254	18	aac(3)-IVa, aadA1, aadA2, aph(3'')-Ib, aph(4)-Ia, aph(6)-Id, armA, blaDHA-1, cmlA1, estX, mph(E), msr(E), qnrB4, sul1, sul3, tmexC1, tmexD1, toprJ1	qacE, qacL, terA, terB, terC, terD, terE
+AA405	AI440	GCA_018583185.1	CP075457.1	Klebsiella pneumoniae	Livestock_Poultry	China	2019	LMIC	249.0	IncFIB,IncHI1B,rep_cluster_1254	9	aac(3)-IId, aph(3'')-Ib, aph(6)-Id, blaDHA-1, blaTEM-1, mph(E), msr(E), qnrB4, sul1	merC, merP, merR, merT, qacE, terA, terB, terC, terD, terE
+AA405	AI436	GCA_061612755.1	JCDZBI010000002.1	Klebsiella pneumoniae	Wastewater_Aquatic	Poland	2025	HIC	332.0	IncFIB,IncHI1B,rep_cluster_1254	18	aac(6')-Ib, aadA1, aph(3')-VI, armA, blaCTX-M-15, blaNDM-5, blaOXA-9, blaTEM-1, ble, catA1, dfrA5, mph(A), mph(E), mrx(A), msr(E), qnrS1, sul1, sul2	qacEdelta1
+AA405	AI436	GCA_061110345.1	CP172241.1	Klebsiella pneumoniae	Wastewater_Aquatic	Sweden	2023	HIC	371.3	IncFIB,IncHI1B,IncR,rep_cluster_1254	14	aadA1, ant(2'')-Ia, armA, blaOXA-48, catA1, dfrA1, mph(A), mph(E), mrx(A), msr(E), qnrS1, sul1, sul2, tet(A)	qacEdelta1
+AA436	AI506	GCA_905329705.2	OW967424.1	Klebsiella pneumoniae	Human	Spain	2018	HIC	117.6	IncFIB,IncFII,rep_cluster_2183	3	blaKPC-3, blaOXA, blaTEM-1	merC
+AA436	AI505	GCA_016939535.1	CP070525.1	Klebsiella pneumoniae	Wastewater_Aquatic	Czech Republic	2018	HIC	108.5	IncFII,IncR,rep_cluster_1254,rep_cluster_2183	6	armA, blaKPC-2, blaOXA, blaTEM-1, mph(E), msr(E)	merA, merC, merD, merE, merR, merT
+AA454	AI557	GCA_018583185.1	CP075458.1	Klebsiella pneumoniae	Livestock_Poultry	China	2019	LMIC	180.3	IncFIB,IncFII,IncQ1	12	aac(3)-II, aac(3)-IId, aac(6')-Ib-cr5, aadA16, aph(3'')-Ib, aph(6)-Id, arr-3, dfrA27, mph(A), mrx(A), sul1, sul2	
+AA454	AI557	GCA_032463405.1	CP136000.1	Klebsiella pneumoniae	Livestock_Poultry	USA	2021	HIC	179.1	IncFIB,IncFII	1	tet(A)	
+AA454	AI556	GCA_020906545.1	CP086725.1	Klebsiella pneumoniae	Wastewater_Aquatic	Tanzania	2018	LMIC	230.5	IncFIB,IncFII,rep_cluster_2183	12	aac(3)-IIe, aac(6')-Ib-cr5, aph(3'')-Ib, aph(6)-Id, blaCTX-M-15, blaOXA-1, blaTEM-1, catB3, dfrA14, qnrB1, sul2, tet(A)	arsA, arsB, arsC, arsD, arsR, pcoA, pcoB, pcoC, pcoD, pcoR, pcoS, silA, silB, silC, silE, silP, silR, silS
+AA454	AI556	GCA_061579955.1	JCEGHB010000002.1	Klebsiella pneumoniae	Wastewater_Aquatic	Viet Nam	2024	LMIC	255.9	IncFIB,IncFII,rep_cluster_2183	12	aadA1, aph(3'')-Ib, aph(6)-Id, arr-2, blaLAP-2, blaOXA-10, cmlA5, dfrA14, floR, qnrS1, sul2, tet(A)	arsA, arsB, arsC, arsD, arsR, pcoA, pcoB, pcoC, pcoD, pcoR, pcoS, silA, silB, silC, silE, silP, silR, silS
+AA474	AI621	GCA_055283135.1	JBUZJN010000003.1	E.coli and Shigella	Human	China	2023	LMIC	88.5	IncI1/B/O	1	blaCTX-M-55	
+AA474	AI622	GCA_054720765.1	JBTVPZ010000003.1	E.coli and Shigella	Human	Russia	2025	HIC	85.6	IncI-gamma/K1	1	blaCTX-M-3	
+AA474	AI602	GCA_018208275.1	CP062926.1	E.coli and Shigella	Human	Turkey	2018	LMIC	137.8	IncI-gamma/K1	3	aadA25, blaTEM-1, floR	
+AA474	AI602	GCA_032056765.1	CP134907.1	E.coli and Shigella	Human	USA	2017	HIC	93.7	IncI1/B/O	1	blaCMY-2	
+AA474	AI595	GCA_016942575.1	CP063464.1	E.coli and Shigella	Livestock_Poultry	Laos	2018	LMIC	94.8	IncI-gamma/K1,IncQ1	8	aadA1, aph(3'')-Ib, aph(6)-Id, blaTEM-1, dfrA1, sul1, sul2, tet(A)	merC, merP, merR, merT, qacEdelta1
+AA474	AI597	GCA_044324895.1	CP172205.1	E.coli and Shigella	Livestock_Poultry	Switzerland	2024	HIC	110.6	IncI-gamma/K1	4	aadA5, blaCTX-M-1, dfrA17, sul2	
+AA474	AI596	GCA_053698915.1	JBRAWR010000003.1	E.coli and Shigella	Wastewater_Aquatic	New Zealand	2020	HIC	99.9	IncI-gamma/K1	3	blaCTX-M-65, mph(A), mrx(A)	
+AA474	AI619	GCA_013282315.1	CP042886.1	E.coli and Shigella	Wastewater_Aquatic	Norway	2019	HIC	88.8	IncI-gamma/K1	2	blaCTX-M-15, qnrS1	
+AA474	AI611	GCA_048012855.1	CP182156.1	E.coli and Shigella	Wastewater_Aquatic	Thailand	2022	LMIC	94.5	IncI-gamma/K1	2	aac(3)-IVa, aph(4)-Ia	
+AA619	AI859	GCA_017570645.1	CP069680.1	E.coli and Shigella	Human	Poland	2018	HIC	33.3	IncX4	1	mcr-1.1	
+AA619	AI859	GCA_036503815.1	AP027767.1	E.coli and Shigella	Human	Viet Nam	2017	LMIC	35.0	IncX4	1	mcr-1.1	
+AA619	AI860	GCA_050995545.1	CP149950.1	E.coli and Shigella	Livestock_Poultry	Denmark	2019	HIC	45.6	IncX4	3	aadA1, blaTEM-30, lnu(G)	
+AA619	AI859	GCA_038447555.1	CP138468.1	Klebsiella pneumoniae	Livestock_Poultry	Germany	2022	HIC	40.0	IncX4	2	blaTEM-135, mcr-1.26	
+AA619	AI859	GCA_058350665.1	JBVKFE010000005.1	E.coli and Shigella	Livestock_Poultry	Lebanon	2018	LMIC	33.3	IncX4	1	mcr-1.26	
+AA619	AI859	GCA_032463405.1	CP136002.1	Klebsiella pneumoniae	Livestock_Poultry	USA	2021	HIC	33.3	IncX4	1	mcr-1.1	
+AA738	AJ047	GCA_017903455.1	CP072803.1	E.coli and Shigella	Human	Pakistan	2019	LMIC	378.1	IncFIA,IncHI2A,rep_cluster_1088	10	aadA8, aph(3')-Ia, aph(6)-Id, arr-2, dfrA14, floR, lnu(F), mcr-1.1, sul3, tet(A)	pcoA, pcoB, pcoC, pcoD, pcoE, pcoR, pcoS, silA, silB, silC, silE, silF, silP, silR, silS, terD, terW, terZ
+AA738	AJ047	GCA_017903455.1	CP072807.1	E.coli and Shigella	Human	Pakistan	2019	LMIC	378.1	IncFIA,IncHI2A,rep_cluster_1088	8	aadA22, aph(3'')-Ib, aph(3')-Ia, aph(6)-Id, blaTEM-215, floR, sul2, tet(X4)	
+AA738	AJ047	GCA_055380415.1	AP042645.1	E.coli and Shigella	Livestock_Poultry	Japan	2024	HIC	222.7	IncHI2A,IncQ1,rep_cluster_1088	10	aadA2, aph(3'')-Ib, aph(3')-Ia, aph(6)-Id, blaTEM-176, dfrA12, floR, sul1, sul2, tet(A)	merC, merR, merT, qacEdelta1, terD, terW, terZ
+AA887	AJ321	GCA_036503815.1	AP027766.1	E.coli and Shigella	Human	Viet Nam	2017	LMIC	68.3	IncFIB	6	aph(3'')-Ib, aph(6)-Id, blaLAP-2, qnrS1, sul2, tet(A)	
+AA887	AJ321	GCA_014170735.1	CP059930.1	E.coli and Shigella	Livestock_Poultry	Canada	2016	HIC	99.9	IncFIB	10	aph(3'')-Ib, aph(6)-Id, blaCTX-M-15, blaTEM-1, dfrA14, floR, qnrS1, sul2, tet(A), tet(M)	
+AA998	AJ516	GCA_031785675.1	CP133917.1	E.coli and Shigella	Human	Argentina	2018	LMIC	185.8	IncHI1A	6	aadA1, aadA2, cmlA1, estX-3, mcr-1.5, sul3	qacL
+AA998	AJ516	GCA_036499785.1	AP027638.1	E.coli and Shigella	Human	Ecuador	2019	LMIC	237.8	IncHI1A	9	aadA1, aadA2, blaTEM-1, cmlA1, floR, mcr-1.1, qnrB19, sul3, tet(A)	merC, merP, merR, merT, qacL
+AA998	AJ514	GCA_016944735.1	CP063512.1	E.coli and Shigella	Human	Laos	2018	LMIC	273.2	IncFIA	12	aac(3)-IId, aadA25, blaCTX-M-55, blaTEM-1, dfrA12, floR, mef(B), qnrS1, sul2, sul3, tet(A), tet(M)	merR, merT, pcoA, pcoB, pcoC, pcoE, pcoS, qacL, silA, silB, silC, silE, silF, silP, silR, silS
+AA998	AJ514	GCA_038709795.1	CP134088.1	E.coli and Shigella	Livestock_Poultry	Hungary	2023	HIC	287.8	IncHI1A,IncX4	11	aadA1, aadA2, blaTEM-135, cmlA1, dfrA12, floR, qnrS1, sul2, sul3, tet(A), tet(M)	pcoA, pcoB, pcoC, pcoE, pcoS, qacL, silA, silB, silC, silE, silF, silP, silR, silS
+AA998	AJ514	GCA_038709795.1	CP134089.1	E.coli and Shigella	Livestock_Poultry	Hungary	2023	HIC	287.8	IncHI1A,IncX4	1	mcr-1.1	
+AA998	AJ516	GCA_041320015.1	CP100923.1	E.coli and Shigella	Wastewater_Aquatic	China	2019	LMIC	343.8	IncFIA,IncFIC,IncFIA,IncQ1	12	aac(3)-IId, aadA2, aph(3'')-Ib, aph(3')-Ia, aph(6)-Id, blaTEM-1, dfrA12, floR, qepA, qnrS1, sul2, tet(B)	merC, merP, merR, merT
+AA998	AJ516	GCA_041320015.1	CP100924.1	E.coli and Shigella	Wastewater_Aquatic	China	2019	LMIC	343.8	IncFIA,IncFIC,IncFIA,IncQ1	6	blaTEM, dfrA5, floR, mph(A), mrx(A), tet(A)	
+AB192	AJ849	GCA_011769725.1	CP050364.1	Klebsiella pneumoniae	Human	Czech Republic	2018	HIC	120.0	IncR	10	aac(6')-Ib, blaCTX-M-15, catA2, catB, dfrA12, dfrA14, mph(A), mrx(A), qnrB1, rmtF1	
+AB192	AJ848	GCA_061110765.1	CP171811.1	Klebsiella pneumoniae	Human	Sweden	2022	HIC	79.5	IncR	13	aac(6')-Ib-cr5, aadA1, ant(2'')-Ia, blaCTX-M-15, blaOXA, blaOXA-48, blaTEM-1, catA1, catB3, dfrA1, qnrS1, sul1, tet(A)	qacEdelta1
+AB192	AJ847	GCA_018583185.1	CP075459.1	Klebsiella pneumoniae	Livestock_Poultry	China	2019	LMIC	79.9	IncR	7	aadA2, blaLAP-2, bleO, dfrA12, qnrS1, sul2, tet(A)	silA, silB, silC, silE, silF, silP, silR, silS
+AB595	AK439	GCA_054391795.1	JBSTRL010000003.1	Klebsiella pneumoniae	Human	Tanzania	2022	LMIC	6.2	rep_cluster_2335	3	aph(3'')-Ib, aph(6)-Id, sul2	
+AB595	AK439	GCA_030020015.1	CP125017.1	E.coli and Shigella	Wastewater_Aquatic	Uganda	2018	LMIC	6.2	rep_cluster_2335	3	aph(3'')-Ib, aph(6)-Id, sul2	
+AC026	AL043	GCA_055697635.1	CP189503.1	E.coli and Shigella	Human	Switzerland	2017	HIC	38.4	IncI-gamma/K1	1	blaCMY-42	
+AC026	AL043	GCA_040931675.1	CP162408.1	E.coli and Shigella	Wastewater_Aquatic	Pakistan	2016	LMIC	48.6	IncI-gamma/K1	1	blaCMY	
+AC125	AL189	GCA_015219805.1	CP063217.1	Klebsiella pneumoniae	Human	Hong Kong	2017	HIC	111.3	IncFIB	1	dfrA50	
+AC125	AL185	GCA_061612755.1	JCDZBI010000003.1	Klebsiella pneumoniae	Wastewater_Aquatic	Poland	2025	HIC	112.9	IncFIB	1	dfrA50	
